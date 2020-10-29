@@ -1,6 +1,13 @@
 ### Welcome!
 :leaves: Someday I'll become a software engineer, so that everyone in the CS department will learn to accept me! :leaves:
 
+:eyes: LinkedIn: [here](https://www.linkedin.com/in/sydneylin12/)
+
+:eyes: LeetCode: [here](https://leetcode.com/)
+
+:eyes: Personal Website: [here](https://sydneylin12.github.io/MySite/)
+
+:eyes: Rebrickable: [here](https://rebrickable.com/users/sydney.lin12/mocs/)
 <!--
 **sydneylin12/sydneylin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
