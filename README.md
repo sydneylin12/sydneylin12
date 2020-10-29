@@ -3,7 +3,7 @@
 
 :eyes: LinkedIn: [here](https://www.linkedin.com/in/sydneylin12/)
 
-:eyes: LeetCode: [here](https://leetcode.com/)
+:eyes: LeetCode: [here](https://leetcode.com/sydneylin12/)
 
 :eyes: Personal Website: [here](https://sydneylin12.github.io/MySite/)
 
