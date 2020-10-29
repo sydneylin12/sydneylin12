@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there!
+I'm Sid, a senior studying computer science at the University of Minnesota, Twin Cities. There's a good variety of stuff in here, including iOS apps, games, web projects, and even LEGO designs. 
 
 <!--
 **sydneylin12/sydneylin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
