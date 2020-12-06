@@ -1,6 +1,4 @@
 ### Welcome!
-:leaves: Someday I'll become a software engineer, and everyone at the University of :part_alternation_mark:innesota will accept me! :leaves:
-
 * LinkedIn: [here](https://www.linkedin.com/in/sydneylin12/)
 * LeetCode: [here](https://leetcode.com/sydneylin12/)
 * Personal Website: [here](https://sydneylin12.github.io/MySite/)
