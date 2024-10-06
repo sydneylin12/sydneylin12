@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
 
 ## Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,css,docker,dynamodb,express,figma,git,github,gmail,graphql,html,idea,java,jenkins,js,npm,ocaml,python,react,regex,scala,swift,ts,unity&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,css,docker,dynamodb,express,figma,git,github,gmail,graphql,html,idea,java,jenkins,js,npm,ocaml,python,react,regex,scala,swift,ts&perline=8)](https://skillicons.dev)
 
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sydneylin12?theme=wtf&font=JetBrains%20Mono&ext=heatmap)
