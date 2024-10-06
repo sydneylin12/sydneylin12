@@ -5,7 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sydneyliner&style=flat)
 
-
 ## Social Media
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sydneylin12)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
