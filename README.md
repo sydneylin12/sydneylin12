@@ -9,11 +9,11 @@
 
 ## About Me
 
-:wave: Welcome to my GitHub profile!
-:computer: I am an experienced software engineer based in Seattle, WA.
-:ship: I am currently working at Flexport as an SDE II.
-:musical_keyboard: I enjoy watching anime and playing piano in my leisure time!
-:speaking_head:	I can speak English :us: and am learning Mandarin :cn::taiwan:.
+- :wave: Welcome to my GitHub profile!
+- :computer: I am an experienced software engineer based in Seattle, WA.
+- :ship: I am currently working at Flexport as an SDE II.
+- :musical_keyboard: I enjoy watching anime and playing piano in my leisure time!
+- :speaking_head:	I can speak English :us: and am learning Mandarin :cn::taiwan:.
 
 ## Connect with Me
 
